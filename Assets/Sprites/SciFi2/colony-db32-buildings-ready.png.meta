@@ -1,0 +1,4066 @@
+fileFormatVersion: 2
+guid: 3dde7703bd3ef4177b3cf9628fafa5c3
+timeCreated: 1490579253
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: colony-db32-buildings-ready_0
+    21300002: colony-db32-buildings-ready_1
+    21300004: colony-db32-buildings-ready_2
+    21300006: colony-db32-buildings-ready_3
+    21300008: colony-db32-buildings-ready_4
+    21300010: colony-db32-buildings-ready_5
+    21300012: colony-db32-buildings-ready_6
+    21300014: colony-db32-buildings-ready_7
+    21300016: colony-db32-buildings-ready_8
+    21300018: colony-db32-buildings-ready_9
+    21300020: colony-db32-buildings-ready_10
+    21300022: colony-db32-buildings-ready_11
+    21300024: colony-db32-buildings-ready_12
+    21300026: colony-db32-buildings-ready_13
+    21300028: colony-db32-buildings-ready_14
+    21300030: colony-db32-buildings-ready_15
+    21300032: colony-db32-buildings-ready_16
+    21300034: colony-db32-buildings-ready_17
+    21300036: colony-db32-buildings-ready_18
+    21300038: colony-db32-buildings-ready_19
+    21300040: colony-db32-buildings-ready_20
+    21300042: colony-db32-buildings-ready_21
+    21300044: colony-db32-buildings-ready_22
+    21300046: colony-db32-buildings-ready_23
+    21300048: colony-db32-buildings-ready_24
+    21300050: colony-db32-buildings-ready_25
+    21300052: colony-db32-buildings-ready_26
+    21300054: colony-db32-buildings-ready_27
+    21300056: colony-db32-buildings-ready_28
+    21300058: colony-db32-buildings-ready_29
+    21300060: colony-db32-buildings-ready_30
+    21300062: colony-db32-buildings-ready_31
+    21300064: colony-db32-buildings-ready_32
+    21300066: colony-db32-buildings-ready_33
+    21300068: colony-db32-buildings-ready_34
+    21300070: colony-db32-buildings-ready_35
+    21300072: colony-db32-buildings-ready_36
+    21300074: colony-db32-buildings-ready_37
+    21300076: colony-db32-buildings-ready_38
+    21300078: colony-db32-buildings-ready_39
+    21300080: colony-db32-buildings-ready_40
+    21300082: colony-db32-buildings-ready_41
+    21300084: colony-db32-buildings-ready_42
+    21300086: colony-db32-buildings-ready_43
+    21300088: colony-db32-buildings-ready_44
+    21300090: colony-db32-buildings-ready_45
+    21300092: colony-db32-buildings-ready_46
+    21300094: colony-db32-buildings-ready_47
+    21300096: colony-db32-buildings-ready_48
+    21300098: colony-db32-buildings-ready_49
+    21300100: colony-db32-buildings-ready_50
+    21300102: colony-db32-buildings-ready_51
+    21300104: colony-db32-buildings-ready_52
+    21300106: colony-db32-buildings-ready_53
+    21300108: colony-db32-buildings-ready_54
+    21300110: colony-db32-buildings-ready_55
+    21300112: colony-db32-buildings-ready_56
+    21300114: colony-db32-buildings-ready_57
+    21300116: colony-db32-buildings-ready_58
+    21300118: colony-db32-buildings-ready_59
+    21300120: colony-db32-buildings-ready_60
+    21300122: colony-db32-buildings-ready_61
+    21300124: colony-db32-buildings-ready_62
+    21300126: colony-db32-buildings-ready_63
+    21300128: colony-db32-buildings-ready_64
+    21300130: colony-db32-buildings-ready_65
+    21300132: colony-db32-buildings-ready_66
+    21300134: colony-db32-buildings-ready_67
+    21300136: colony-db32-buildings-ready_68
+    21300138: colony-db32-buildings-ready_69
+    21300140: colony-db32-buildings-ready_70
+    21300142: colony-db32-buildings-ready_71
+    21300144: colony-db32-buildings-ready_72
+    21300146: colony-db32-buildings-ready_73
+    21300148: colony-db32-buildings-ready_74
+    21300150: colony-db32-buildings-ready_75
+    21300152: colony-db32-buildings-ready_76
+    21300154: colony-db32-buildings-ready_77
+    21300156: colony-db32-buildings-ready_78
+    21300158: colony-db32-buildings-ready_79
+    21300160: colony-db32-buildings-ready_80
+    21300162: colony-db32-buildings-ready_81
+    21300164: colony-db32-buildings-ready_82
+    21300166: colony-db32-buildings-ready_83
+    21300168: colony-db32-buildings-ready_84
+    21300170: colony-db32-buildings-ready_85
+    21300172: colony-db32-buildings-ready_86
+    21300174: colony-db32-buildings-ready_87
+    21300176: colony-db32-buildings-ready_88
+    21300178: colony-db32-buildings-ready_89
+    21300180: colony-db32-buildings-ready_90
+    21300182: colony-db32-buildings-ready_91
+    21300184: colony-db32-buildings-ready_92
+    21300186: colony-db32-buildings-ready_93
+    21300188: colony-db32-buildings-ready_94
+    21300190: colony-db32-buildings-ready_95
+    21300192: colony-db32-buildings-ready_96
+    21300194: colony-db32-buildings-ready_97
+    21300196: colony-db32-buildings-ready_98
+    21300198: colony-db32-buildings-ready_99
+    21300200: colony-db32-buildings-ready_100
+    21300202: colony-db32-buildings-ready_101
+    21300204: colony-db32-buildings-ready_102
+    21300206: colony-db32-buildings-ready_103
+    21300208: colony-db32-buildings-ready_104
+    21300210: colony-db32-buildings-ready_105
+    21300212: colony-db32-buildings-ready_106
+    21300214: colony-db32-buildings-ready_107
+    21300216: colony-db32-buildings-ready_108
+    21300218: colony-db32-buildings-ready_109
+    21300220: colony-db32-buildings-ready_110
+    21300222: colony-db32-buildings-ready_111
+    21300224: colony-db32-buildings-ready_112
+    21300226: colony-db32-buildings-ready_113
+    21300228: colony-db32-buildings-ready_114
+    21300230: colony-db32-buildings-ready_115
+    21300232: colony-db32-buildings-ready_116
+    21300234: colony-db32-buildings-ready_117
+    21300236: colony-db32-buildings-ready_118
+    21300238: colony-db32-buildings-ready_119
+    21300240: colony-db32-buildings-ready_120
+    21300242: colony-db32-buildings-ready_121
+    21300244: colony-db32-buildings-ready_122
+    21300246: colony-db32-buildings-ready_123
+    21300248: colony-db32-buildings-ready_124
+    21300250: colony-db32-buildings-ready_125
+    21300252: colony-db32-buildings-ready_126
+    21300254: colony-db32-buildings-ready_127
+    21300256: colony-db32-buildings-ready_128
+    21300258: colony-db32-buildings-ready_129
+    21300260: colony-db32-buildings-ready_130
+    21300262: colony-db32-buildings-ready_131
+    21300264: colony-db32-buildings-ready_132
+    21300266: colony-db32-buildings-ready_133
+    21300268: colony-db32-buildings-ready_134
+    21300270: colony-db32-buildings-ready_135
+    21300272: colony-db32-buildings-ready_136
+    21300274: colony-db32-buildings-ready_137
+    21300276: colony-db32-buildings-ready_138
+    21300278: colony-db32-buildings-ready_139
+    21300280: colony-db32-buildings-ready_140
+    21300282: colony-db32-buildings-ready_141
+    21300284: colony-db32-buildings-ready_142
+    21300286: colony-db32-buildings-ready_143
+    21300288: colony-db32-buildings-ready_144
+    21300290: colony-db32-buildings-ready_145
+    21300292: colony-db32-buildings-ready_146
+    21300294: colony-db32-buildings-ready_147
+    21300296: colony-db32-buildings-ready_148
+    21300298: colony-db32-buildings-ready_149
+    21300300: colony-db32-buildings-ready_150
+    21300302: colony-db32-buildings-ready_151
+    21300304: colony-db32-buildings-ready_152
+    21300306: colony-db32-buildings-ready_153
+    21300308: colony-db32-buildings-ready_154
+    21300310: colony-db32-buildings-ready_155
+    21300312: colony-db32-buildings-ready_156
+    21300314: colony-db32-buildings-ready_157
+    21300316: colony-db32-buildings-ready_158
+    21300318: colony-db32-buildings-ready_159
+    21300320: colony-db32-buildings-ready_160
+    21300322: colony-db32-buildings-ready_161
+    21300324: colony-db32-buildings-ready_162
+    21300326: colony-db32-buildings-ready_163
+    21300328: colony-db32-buildings-ready_164
+    21300330: colony-db32-buildings-ready_165
+    21300332: colony-db32-buildings-ready_166
+    21300334: colony-db32-buildings-ready_167
+    21300336: colony-db32-buildings-ready_168
+    21300338: colony-db32-buildings-ready_169
+    21300340: colony-db32-buildings-ready_170
+    21300342: colony-db32-buildings-ready_171
+    21300344: colony-db32-buildings-ready_172
+    21300346: colony-db32-buildings-ready_173
+    21300348: colony-db32-buildings-ready_174
+    21300350: colony-db32-buildings-ready_175
+    21300352: colony-db32-buildings-ready_176
+    21300354: colony-db32-buildings-ready_177
+    21300356: colony-db32-buildings-ready_178
+    21300358: colony-db32-buildings-ready_179
+    21300360: colony-db32-buildings-ready_180
+    21300362: colony-db32-buildings-ready_181
+    21300364: colony-db32-buildings-ready_182
+    21300366: colony-db32-buildings-ready_183
+    21300368: colony-db32-buildings-ready_184
+    21300370: colony-db32-buildings-ready_185
+    21300372: colony-db32-buildings-ready_186
+    21300374: colony-db32-buildings-ready_187
+    21300376: colony-db32-buildings-ready_188
+    21300378: colony-db32-buildings-ready_189
+    21300380: colony-db32-buildings-ready_190
+    21300382: colony-db32-buildings-ready_191
+    21300384: colony-db32-buildings-ready_192
+    21300386: colony-db32-buildings-ready_193
+    21300388: colony-db32-buildings-ready_194
+    21300390: colony-db32-buildings-ready_195
+    21300392: colony-db32-buildings-ready_196
+    21300394: colony-db32-buildings-ready_197
+    21300396: colony-db32-buildings-ready_198
+    21300398: colony-db32-buildings-ready_199
+    21300400: colony-db32-buildings-ready_200
+    21300402: colony-db32-buildings-ready_201
+    21300404: colony-db32-buildings-ready_202
+    21300406: colony-db32-buildings-ready_203
+    21300408: colony-db32-buildings-ready_204
+    21300410: colony-db32-buildings-ready_205
+    21300412: colony-db32-buildings-ready_206
+    21300414: colony-db32-buildings-ready_207
+    21300416: colony-db32-buildings-ready_208
+    21300418: colony-db32-buildings-ready_209
+    21300420: colony-db32-buildings-ready_210
+    21300422: colony-db32-buildings-ready_211
+    21300424: colony-db32-buildings-ready_212
+    21300426: colony-db32-buildings-ready_213
+    21300428: colony-db32-buildings-ready_214
+    21300430: colony-db32-buildings-ready_215
+    21300432: colony-db32-buildings-ready_216
+    21300434: colony-db32-buildings-ready_217
+    21300436: colony-db32-buildings-ready_218
+    21300438: colony-db32-buildings-ready_219
+    21300440: colony-db32-buildings-ready_220
+    21300442: colony-db32-buildings-ready_221
+    21300444: colony-db32-buildings-ready_222
+    21300446: colony-db32-buildings-ready_223
+    21300448: colony-db32-buildings-ready_224
+    21300450: colony-db32-buildings-ready_225
+    21300452: colony-db32-buildings-ready_226
+    21300454: colony-db32-buildings-ready_227
+    21300456: colony-db32-buildings-ready_228
+    21300458: colony-db32-buildings-ready_229
+    21300460: colony-db32-buildings-ready_230
+    21300462: colony-db32-buildings-ready_231
+    21300464: colony-db32-buildings-ready_232
+    21300466: colony-db32-buildings-ready_233
+    21300468: colony-db32-buildings-ready_234
+    21300470: colony-db32-buildings-ready_235
+    21300472: colony-db32-buildings-ready_236
+    21300474: colony-db32-buildings-ready_237
+    21300476: colony-db32-buildings-ready_238
+    21300478: colony-db32-buildings-ready_239
+    21300480: colony-db32-buildings-ready_240
+    21300482: colony-db32-buildings-ready_241
+    21300484: colony-db32-buildings-ready_242
+    21300486: colony-db32-buildings-ready_243
+    21300488: colony-db32-buildings-ready_244
+    21300490: colony-db32-buildings-ready_245
+    21300492: colony-db32-buildings-ready_246
+    21300494: colony-db32-buildings-ready_247
+    21300496: colony-db32-buildings-ready_248
+    21300498: colony-db32-buildings-ready_249
+    21300500: colony-db32-buildings-ready_250
+    21300502: colony-db32-buildings-ready_251
+    21300504: colony-db32-buildings-ready_252
+    21300506: colony-db32-buildings-ready_253
+    21300508: colony-db32-buildings-ready_254
+    21300510: colony-db32-buildings-ready_255
+    21300512: colony-db32-buildings-ready_256
+    21300514: colony-db32-buildings-ready_257
+    21300516: colony-db32-buildings-ready_258
+    21300518: colony-db32-buildings-ready_259
+    21300520: colony-db32-buildings-ready_260
+    21300522: colony-db32-buildings-ready_261
+    21300524: colony-db32-buildings-ready_262
+    21300526: colony-db32-buildings-ready_263
+    21300528: colony-db32-buildings-ready_264
+    21300530: colony-db32-buildings-ready_265
+    21300532: colony-db32-buildings-ready_266
+    21300534: colony-db32-buildings-ready_267
+    21300536: colony-db32-buildings-ready_268
+    21300538: colony-db32-buildings-ready_269
+    21300540: colony-db32-buildings-ready_270
+    21300542: colony-db32-buildings-ready_271
+    21300544: colony-db32-buildings-ready_272
+    21300546: colony-db32-buildings-ready_273
+    21300548: colony-db32-buildings-ready_274
+    21300550: colony-db32-buildings-ready_275
+    21300552: colony-db32-buildings-ready_276
+    21300554: colony-db32-buildings-ready_277
+    21300556: colony-db32-buildings-ready_278
+    21300558: colony-db32-buildings-ready_279
+    21300560: colony-db32-buildings-ready_280
+    21300562: colony-db32-buildings-ready_281
+    21300564: colony-db32-buildings-ready_282
+    21300566: colony-db32-buildings-ready_283
+    21300568: colony-db32-buildings-ready_284
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2034
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2034
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2031
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2067
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2041
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2039
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2038
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1991
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1991
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1999
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1999
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2015
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2010
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1974
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1999
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1991
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1955
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1938
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1938
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1967
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1967
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1975
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1943
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1942
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1911
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1959
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1862
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1896
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1896
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1911
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1888
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1888
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1850
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1845
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1888
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1888
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1775
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1844
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1711
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1846
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1766
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1808
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1780
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1781
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1767
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1767
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1777
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1711
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1749
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1698
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1711
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1716
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1745
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1719
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1717
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1722
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1668
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1617
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1615
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1617
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1651
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_62
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1625
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1623
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1622
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1575
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1575
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1583
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1583
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1599
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1595
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_71
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1558
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_72
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1583
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1575
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1539
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1522
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1522
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1551
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1551
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1559
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1527
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1527
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1472
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1543
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_84
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1446
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1480
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1480
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_87
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1495
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1472
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1434
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1429
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_91
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1472
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1358
+        width: 42
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1428
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1294
+        width: 63
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_95
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1430
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1350
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1392
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1364
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1365
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1351
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1351
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_102
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1361
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1282
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1294
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1300
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_107
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1329
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1303
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1301
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_110
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1306
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_112
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1252
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_113
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1202
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1199
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_115
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1202
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1235
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1209
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_118
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1207
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1206
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1159
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1159
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1166
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_123
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1166
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_124
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1183
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_125
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_126
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1142
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_127
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1166
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_128
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1159
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_129
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1123
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1106
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1106
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_132
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1135
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_133
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1135
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_134
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1143
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1111
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1111
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_137
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1079
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_138
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1127
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_139
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1030
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1064
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1064
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_142
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1079
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_143
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1056
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_144
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1056
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1018
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_146
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1013
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_147
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1056
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1056
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_149
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 943
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_150
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1012
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_151
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 879
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_152
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1014
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 934
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 976
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_155
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 948
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_156
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 949
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_157
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 935
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 935
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_159
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 945
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_161
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 866
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_162
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_163
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 884
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_164
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 913
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_165
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 887
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 885
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_167
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 890
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_169
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 836
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_170
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 786
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_171
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 783
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_172
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 786
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_173
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 819
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_174
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 793
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_175
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 791
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_176
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 790
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_177
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 743
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_178
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 743
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_179
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 751
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_180
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 751
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 767
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_182
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 763
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_183
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 726
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_184
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 751
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_185
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 743
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_186
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 707
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_187
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 690
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_188
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 690
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_189
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 719
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_190
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 719
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_191
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 727
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 695
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_193
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 695
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_194
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 663
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_195
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 711
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_196
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 614
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_197
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 648
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_198
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 648
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_199
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 663
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_200
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 640
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_201
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 640
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_202
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 602
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_203
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 597
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_204
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 640
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_205
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 640
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_206
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 527
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_207
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 596
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_208
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 463
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_209
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 598
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_210
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 518
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_211
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 560
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_212
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 532
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 533
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_214
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 519
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_215
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 519
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_216
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 529
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_218
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 450
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_219
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 463
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_220
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 468
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_221
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 497
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_222
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 471
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_224
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 474
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_226
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 420
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_227
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 370
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_228
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 367
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_229
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 370
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_230
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 403
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_231
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 377
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_232
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 375
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_233
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 374
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_234
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_235
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 327
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_236
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 335
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_237
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 335
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_238
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 351
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_239
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 347
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_240
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 310
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_241
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 335
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_242
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 327
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_243
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 291
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_244
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_245
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 274
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_246
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 303
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_247
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 303
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_248
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 311
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_249
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 279
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_250
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 279
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_251
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_252
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 295
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_253
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_254
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_255
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 232
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_256
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 247
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_257
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_258
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 186
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_259
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 181
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_260
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_261
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 111
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_262
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 180
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_263
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_264
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 182
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_265
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_266
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_267
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_268
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 117
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_269
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 103
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_270
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 103
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_271
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 113
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_273
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_274
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_275
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_276
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_277
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 55
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_278
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_279
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 58
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_281
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_282
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_283
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: colony-db32-buildings-ready_284
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 7
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
