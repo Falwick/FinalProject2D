@@ -7,11 +7,20 @@ using UnityEngine.UI;
 public class WinCondition : MonoBehaviour {
 
 	public Text winText;
+	private PlayerMovement pm;
+
+	public virtual bool playerWon
+	{
+		get;
+		protected set;
+	}
 
 	// Use this for initialization
 	void Start () {
 
-		winText.enabled = false;
+		//winText.enabled = false;
+		playerWon = false;
+
 	}
 	
 	// Update is called once per frame
@@ -21,7 +30,14 @@ public class WinCondition : MonoBehaviour {
 
 	void OnTriggerEnter2D (Collider2D player)
 	{
-		Debug.Log ("YOU HAVE WON!!");
-		winText.enabled = true;
+		playerWon = true;
+		Debug.Log ("VARIABLE PLAYER WON: " + playerWon);
+		//Debug.Log ("YOU HAVE WON!!");
+		//winText.enabled = true;
+		//pm = player.GetComponent<PlayerMovement> ();
+		//if (player != null) {
+		//	pm.enabled = false;	
 	}
+
 }
+

@@ -47,7 +47,7 @@ public class MoveTowards : MonoBehaviour {
 				target = new Vector2 (patrolPoints [pointIndex].position.x, patrolPoints [pointIndex].position.y);
 				transform.position = Vector2.MoveTowards (transform.position, target, 3 * Time.deltaTime);
 				//drawLine (enemyVector, target, Color.yellow);
-				Debug.DrawLine(enemyVector, target, Color.yellow,10.0f);
+				//Debug.DrawLine(enemyVector, target, Color.yellow,10.0f);
 				
 			}
 

@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2D6D2153-07DE-9CF6-B156-C83690691ADF}</ProjectGuid>
+    <ProjectGuid>{288196D0-2C41-9445-5C27-F4F05635F009}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,8 @@
      <Compile Include="Assets\AttackTrigger_Left.cs" />
      <Compile Include="Assets\EnemiesByTime.cs" />
      <Compile Include="Assets\Enemy_Destructible.cs" />
+     <Compile Include="Assets\GameController.cs" />
+     <Compile Include="Assets\GameStart.cs" />
      <Compile Include="Assets\MoveTowards.cs" />
      <Compile Include="Assets\NavMeshPatroller.cs" />
      <Compile Include="Assets\Navigation2D\Testscene\Move.cs" />
@@ -107,7 +109,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{B784B49A-CAEB-DBAC-ECC3-912BA35B6201}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{40A638DF-23C8-9694-BD40-4F8BDDBC57EC}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
